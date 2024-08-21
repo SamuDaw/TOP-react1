@@ -7,6 +7,7 @@ import FavouriteFood from './FavouriteFood.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <App />
     <Greeting />
     <FavouriteFood />
   </StrictMode>,
