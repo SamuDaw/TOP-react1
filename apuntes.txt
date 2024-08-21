@@ -1,0 +1,11 @@
+REACT
+
+1. Funciones siempre en maýusculas para diferencias etiquets HTML <Greeting> <greeting>
+\
+JSX - Extensión de Javascript que incluye HTML
+
+Reglas JSX
+
+1 - devuelve todo el contenido en un elemento padre único
+2 - Hay que cerrar etiquetas explicitamente
+3 - Usar camelCase en los atributos de las etiquetas HTML por ejemplo stroke-width pasa a strokeWidth, class a className
